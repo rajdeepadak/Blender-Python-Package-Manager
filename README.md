@@ -7,3 +7,4 @@ Features:
 3. Manage multiple packages. 
 4. Auto-update packages.
 5. Search and Install packages from package name, requirements file, setup.py file or from github repository.
+6. View package dependencies and update history.
